@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+**My Personal Quote:** _Think Code._
 
 ---
 
